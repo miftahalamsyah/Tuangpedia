@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+    border: none;
+    
+    /* box-sizing: border-box; */
+}
+
+.grid {
+    display: flex;
+    flex: 1;
+    /* max-height: 320px; */
+    overflow-x: scroll;
+    padding-top: 2%;
+}
+
+.item {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    min-width: 300px;
+    padding: 8px;
+    justify-content: first baseline;
+}
+
+.item-image img {
+    max-width: 100%;
+}

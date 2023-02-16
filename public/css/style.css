@@ -1,0 +1,87 @@
+.btn-tp {
+	color: #fff;
+	background-color: #225675;
+	border-color: #225675;
+}
+.btn-tp:focus,
+.btn-tp.focus {
+	color: #fff;
+	background-color: #357ba3;
+	border-color: #357ba3;
+}
+.btn-tp:hover {
+	color: #fff;
+	background-color: #357ba3;
+	border-color: #357ba3;
+}
+.bg-tp {
+	background-color: #225675;
+}
+.tp-orange {
+	background-color: #E6873C;
+}
+
+.btn-tp-border {
+	color: #fff;
+	border-color:#225675;
+}
+.btn-tp-border:focus,
+.btn-tp-border.focus {
+	color: #fff;
+	background-color: #357ba3;
+	border-color: #357ba3;
+}
+.btn-tp-border:hover {
+	color: #fff;
+	background-color: #357ba3;
+	border-color: #357ba3;
+}
+
+.btn-tp-orange {
+	color: #fff;
+	background-color: #E6873C;
+	border-color: #E6873C;
+} 
+
+.btn-tp-orange-border:focus,
+.btn-tp-orange-border.focus {
+	color: #fff;
+	background-color: #e68c48;
+	border-color: #e68c48;
+}
+.btn-tp-orange-border:hover {
+	color: #fff;
+	background-color: #e68c48;
+	border-color: #e68c48;
+}
+
+.text-tp{
+	color:#225675;
+}
+.text-tp-orange{
+	color:#E6873C;
+}
+
+.searchbar {
+	position: absolute;
+	bottom: 10px;
+  }
+
+div.scroll {
+	margin: 5px, 5px;
+	padding: 5px;
+	overflow: auto;
+	white-space: nowrap;
+}
+.resto {
+	min-height: 400px;
+	margin-bottom: 100px;
+}
+.daftarmenu{
+	min-height: 400px;
+	margin-bottom: 100px;
+}
+.komentar{
+	min-height: 400px;
+	margin-bottom: 100px;
+}   
